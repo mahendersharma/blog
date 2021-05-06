@@ -1,0 +1,21 @@
+body
+{
+    background-color: aquamarine;
+}
+.products
+{
+    width: 400px;
+    box-shadow: 0px 1px 3px gray;
+    padding: 16px;
+    margin: 10px auto;
+    background-color: white  ;
+}
+.artical
+{
+    background-color: blueviolet;
+    text-align: center;
+    color: cornsilk;
+    box-shadow: 0px 3px 6px 8px gray;
+    margin: auto;
+}
+
